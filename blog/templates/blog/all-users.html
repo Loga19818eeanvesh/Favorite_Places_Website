@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %} 
+All users
+{% endblock %} 
+
+{% block css_files %}
+<link rel="stylesheet" href="{% static 'blog/stored-posts.css' %}">
+{% endblock %}
+
+{% block content %}
+  <section id="stored-posts">
+    <ul>
+      <li><a>All Users</a></li>
+      {% for user in users %}
+        <li><a href="{% url 'user-posts' user.id %}">{{ user.first_name }}</a></li>
+      {% endfor %}
+    </ul>
+  </section>
+{% endblock %}

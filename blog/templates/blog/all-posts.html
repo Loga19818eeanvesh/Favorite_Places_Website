@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% load static %}
+
+{% block title %} 
+    All Places
+{% endblock %}
+
+{% block css_files %}
+    <link rel="stylesheet" href="{% static 'blog/post.css' %}" />
+    <link rel="stylesheet" href="{% static 'blog/all-posts.css' %}">
+{% endblock %}
+
+{% block content %} 
+
+<section id="all-posts">
+    {%if user_name%}
+    <h2>All Places by {{user_name}}</h2>
+    {%else%}
+    <h2>All Places</h2>
+    {%endif%}
+    <ul>
+        {% for post in posts %}
+        {% include "blog/includes/post.html" with post=post%}
+        {% endfor %}
+    </ul>
+</section>
+
+{% endblock %}

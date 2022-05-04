@@ -1,0 +1,39 @@
+{% extends 'base.html' %}
+
+{% load static %}
+
+{% block title %} 
+    Favorite Places
+{% endblock %}
+
+{% block css_files %}
+    <link rel="stylesheet" href="{% static 'blog/index.css' %}">
+    <link rel="stylesheet" href="{% static 'blog/post.css' %}" />
+{% endblock %}
+
+{% block content %} 
+    
+    <section id="welcome">
+        <header>
+            <img src="{% static 'blog/images/IMG_20201022_215501.jpg' %}" alt="Loga19818eeanvesh's Blog" />
+            <h2>Favorite Places</h2>
+        </header>
+        <p>A place to share about your Favorite Places.</p>
+    </section>
+
+    <section id="latest-posts">
+        <h2>Latest Places</h2>
+
+        <ul>
+            {% for post in posts%}
+            {% include "blog/includes/post.html" with post=post %}
+            {% endfor %}
+        </ul>
+    </section>
+
+    <section id="about">
+        <h2>What I do</h2>
+        <p>About me</p>
+        <p>More about me</p>
+    </section>
+{% endblock %}
