@@ -6,18 +6,18 @@ Django, HTML, CSS.
 
 ## Snapshots
 
-![Home Page](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202022-05-08%20at%2010.10.35%20AM.png)
-![Register Page](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202022-05-04%20at%2011.15.02%20AM.png)
-![Login Page](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202022-05-04%20at%2011.15.30%20AM.png)
-![Index Page](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202022-05-08%20at%2010.12.34%20AM.png)
-![Add Place](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202022-05-04%20at%2011.20.02%20AM.png)
-![All Places](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202022-05-08%20at%2010.13.56%20AM.png)
-![All Places by single user](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202022-05-04%20at%2011.16.45%20AM.png)
-![Single Place](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202022-05-04%20at%2011.21.00%20AM.png)
-![comments](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202022-05-04%20at%2011.21.14%20AM.png)
-![ReadLater](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202022-05-04%20at%2011.23.11%20AM.png)
-![All Users](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202022-05-04%20at%2011.19.47%20AM.png)
-![Read](https://github.com/Loga19818eeanvesh/Images/blob/main/Screenshot%202022-05-08%20at%2010.08.26%20AM.png)
+![Home Page](https://github.com/SaiAnveshKanchi/Images/blob/main/Screenshot%202022-06-25%20at%205.42.44%20AM.png)
+![Register Page](https://github.com/SaiAnveshKanchi/Images/blob/main/Screenshot%202022-06-25%20at%205.43.30%20AM.png)
+![Login Page](https://github.com/SaiAnveshKanchi/Images/blob/main/Screenshot%202022-06-25%20at%205.43.39%20AM.png)
+![Index Page](https://github.com/SaiAnveshKanchi/Images/blob/main/Screenshot%202022-06-25%20at%205.43.59%20AM.png)
+![Add Place](https://github.com/SaiAnveshKanchi/Images/blob/main/Screenshot%202022-06-25%20at%205.44.14%20AM.png)
+![All Places](https://github.com/SaiAnveshKanchi/Images/blob/main/Screenshot%202022-06-25%20at%205.44.30%20AM.png)
+![All Places by single user](https://github.com/SaiAnveshKanchi/Images/blob/main/Screenshot%202022-06-25%20at%205.44.30%20AM.png)
+![Single Place](https://github.com/SaiAnveshKanchi/Images/blob/main/Screenshot%202022-06-25%20at%205.44.48%20AM.png)
+![comments](https://github.com/SaiAnveshKanchi/Images/blob/main/Screenshot%202022-06-25%20at%205.44.57%20AM.png)
+![ReadLater](https://github.com/SaiAnveshKanchi/Images/blob/main/Screenshot%202022-06-25%20at%205.49.04%20AM.png)
+![All Users](https://github.com/SaiAnveshKanchi/Images/blob/main/Screenshot%202022-06-25%20at%205.45.24%20AM.png)
+![Read](https://github.com/SaiAnveshKanchi/Images/blob/main/Screenshot%202022-06-25%20at%205.49.23%20AM.png)
 
 
 
